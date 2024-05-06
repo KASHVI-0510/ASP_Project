@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllersWithJason", "ControllersWithJason\ControllersWithJason.csproj", "{1AFB38AA-61D0-41A4-AC06-8D5D532EC54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFB38AA-61D0-41A4-AC06-8D5D532EC54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFB38AA-61D0-41A4-AC06-8D5D532EC54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFB38AA-61D0-41A4-AC06-8D5D532EC54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFB38AA-61D0-41A4-AC06-8D5D532EC54E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B05941F4-B4CB-4E17-8B9A-14ABFD2E068B}
+	EndGlobalSection
+EndGlobal
